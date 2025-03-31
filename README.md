@@ -14,19 +14,20 @@
 
 ###
 
-<h2 align="left">🚀 Projetos Recentes</h2>
+<h3 align="left">🚀 Projetos Recentes</h3>
 
 ###
 
-<p align="left">PayPass Ajudei no desenvolvimento estrutural desse aplicativo de transporte público (carteira de passagem eletrônica).<br>Banco de Dados para Gestão de Suprimentos: Colaborei na estruturação de um banco de dados para um artigo científico sobre automação inteligente de suprimentos.</p>
+<p align="left">PayPass  - Ajudei no desenvolvimento estrutural desse aplicativo de transporte público (carteira de passagem eletrônica).<br>Banco de Dados para Gestão de Suprimentos: Colaborei na estruturação de um banco de dados para um artigo científico sobre automação inteligente de suprimentos.</p>
 
 ###
 
 <h2 align="left">🌟 Metas</h2>
 
 ###
-- Me consolidar como desenvolvedor e ingressar no mercado de tecnologia.
-- Aprender novas linguagens e frameworks para criar soluções inovadoras.
+
+<p align="left">Me consolidar como desenvolvedor e ingressar no mercado de tecnologia.<br>Aprender novas linguagens e frameworks para criar soluções inovadoras.</p>
+
 ###
 
 <h3 align="left">🛠 Tecnologias</h3>
@@ -57,7 +58,6 @@
 </div>
 
 ###
-<h3 align="left">🔗Conecte-se comigo</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/luis-henrique-lindoso-1b97192bb/" target="_blank">
