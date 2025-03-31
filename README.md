@@ -57,6 +57,7 @@
 </div>
 
 ###
+<h3 align="left">🔗Conecte-se comigo</h3>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/luis-henrique-lindoso-1b97192bb/" target="_blank">
