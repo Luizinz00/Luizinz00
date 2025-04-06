@@ -1,4 +1,4 @@
-<h1 align="left">👋 Olá, eu sou o Luís Henrique!</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=BE7D2B&width=435&lines=Hi!+I'm+Lu%C3%ADs;Welcome+to+my+GitHub+profile;Software+Engineering+Student;Front+end+developer;Lover+music+and+games)](https://git.io/typing-svg)
 
 ###
 
